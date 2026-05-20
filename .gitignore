@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+venv/
+*.pyc
+
+# Data & Models (Large Files - DO NOT UPLOAD)
+*.csv
+*.xlsx
+best_welfake_deberta/
+models/
+
+# Node/React
+node_modules/
+build/
+dist/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
